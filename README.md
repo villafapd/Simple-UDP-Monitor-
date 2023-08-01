@@ -1,6 +1,6 @@
 # Simple-UDP-Monitor-
-Simple monitor UDP para simular la terminal serie del IDE de arduino o PlatformIO.
-
+Simple monitor UDP realizado en python para simular la terminal serie del IDE de arduino o PlatformIO.
+Ejecutando el script de python se pondrá en modo escucha y realizará la impresión pantalla de los datos recibidos desde el ESP8266
 Foto del proyecto:
 
 ![image](https://github.com/villafapd/Simple-UDP-Monitor-/assets/61601667/7b6c1b6c-5b09-4e1a-ab13-93c213fbb4d2)
