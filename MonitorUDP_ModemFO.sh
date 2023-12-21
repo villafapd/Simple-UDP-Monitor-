@@ -1,6 +1,6 @@
 #!/bin/bash
 
-lxterminal --title="Monitor UDP ModemFO" --command="/bin/bash -c 'python3.9 /home/villafapd/Documents/PythonProjects/Simple-UDP-Monitor-/UdpRecive_ESP_ModemFO.py; read'"
+lxterminal --title="Monitor UDP ModemFO" --geometry=60x30+390+10 --command="/bin/bash -c 'python3.9 /home/villafapd/Documents/PythonProjects/Simple-UDP-Monitor-/UdpRecive_ESP_ModemFO.py; read'"
 
 
 
